@@ -1,9 +1,9 @@
-**Telco Customer Churn Analysis **
+Telco Customer Churn Analysis
 Customer churn, when a customer stops using a company’s service, is one of the most expensive problems for subscription-based businesses, since attracting a new customer typically costs more than retaining an existing one. This project analyzes a telecom company’s customer dataset to understand which customer segments are most likely to churn and why, with the aim of suggesting actionable retention insights. 
 
-**Business Question **
+Business Question 
 Which customer segments have the highest churn rate, and what factors drive that behaviour?
-**Data & Method **
+Data & Method 
 Dataset: Telco Customer Churn (7,043 customers, 21 features), including contract types, payment method, internet service, tenure, and monthly/total charges. 
 Tools: Python (pandas, matplotlib)
 Data cleaning:
